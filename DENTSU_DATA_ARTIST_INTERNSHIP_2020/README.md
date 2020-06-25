@@ -5,7 +5,7 @@ AIエンジニアリングコースエントリー課題
 課題概要は、以下の通りです。
 エントリー希望の方は、[エントリーページ]のフォームの記入と、必須課題１と２のうち１つ以上を提出してください。
 課題３と課題４は任意ですが、提出された場合は加点対象になります。
-詳細説明や結果提出の方法につきましては、[課題フォルダー](https://github.com/da-recruiting/internship-coding-tasks/tree/master/DENTSU_DATA_ARTIST_INTERNSHIP_2020)におけるそれぞれのREADMEファイルをご参照ください。
+詳細説明や結果提出の方法につきましては、[課題フォルダー](https://github.com/da-recruiting/internship-coding-tasks/blob/master/DENTSU_DATA_ARTIST_INTERNSHIP_2020)におけるそれぞれのREADMEファイルをご参照ください。
 
 注意事項
 ----
